@@ -1,0 +1,279 @@
+#Fresh_Turquoise {
+    width: 500px;
+    height: 500px;
+    background-color: #34e7e4;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Minty_Green {
+    width: 500px;
+    height: 500px;
+    background-color: #0be881;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Megaman {
+    width: 500px;
+    height: 500px;
+    background-color: #4bcffa;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Dark_Periwinkle {
+    width: 500px;
+    height: 500px;
+    background-color: #575fcf;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Free_Speech_Blue {
+    width: 500px;
+    height: 500px;
+    background-color: #3c40c6;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Sizzling_Red {
+    width: 500px;
+    height: 500px;
+    background-color: #f53b57;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Narenji_Orange {
+    width: 500px;
+    height: 500px;
+    background-color: #ffc048;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Chrome_Yellow {
+    width: 500px;
+    height: 500px;
+    background-color: #ffa801;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Sunset_Orange {
+    width: 500px;
+    height: 500px;
+    background-color: #ff5e57;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Red_Orange{
+    width: 500px;
+    height: 500px;
+    background-color: #ff3f34;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Jiggly_Puff{
+    width: 500px;
+    height: 500px;
+    background-color: #ff9ff3;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Casandora_Yellow{
+    width: 500px;
+    height: 500px;
+    background-color: #feca57;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Lian_Hong_Lotus_Pink {
+    width: 500px;
+    height: 500px;
+    background-color: #f368e0;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Blubell {
+    width: 500px;
+    height: 500px;
+    background-color: #341f97;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#Nasu_Purple {
+    width: 500px;
+    height: 500px;
+    background-color: #5f27cd;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#Fuel_Town {
+    width: 500px;
+    height: 500px;
+    background-color: #576574;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#Imperial_Primer {
+    width: 500px;
+    height: 500px;
+    background-color: #222f3e;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+#Aqua_Velvet {
+    width: 500px;
+    height: 500px;
+    background-color: #01a3a4;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#Blue_de_France { 
+    width: 500px;
+    height: 500px;
+    background-color: #2e86de;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#Cyanite{
+    width: 500px;
+    height: 500px;
+    background-color: #0abde3;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.nome_colore {
+    color: white;
+    font-family: 'Forum', cursive;
+    text-align: center; 
+    font-size: 24px; 
+    margin: 0; 
+    text-shadow: 50px;
+}
+.codice_colore {
+    color: grey;
+    font-size: 16px; 
+    font-family: 'Forum', cursive;
+    text-align: center; 
+    margin: 0; 
+    background-color: white;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
